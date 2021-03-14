@@ -1,0 +1,43 @@
+[{
+    "FirstName": "mediatrice",
+    "LastName": "uwitonze",
+    "Address":{
+        "street":"123 street",
+        "city":"Rwanda",
+        "state":"tx"
+    },
+    "Email": "meddyu15@gmail.com",
+    "phne":"0783411559"
+
+},
+
+
+{
+    "FirstName": "murekatete",
+    "LastName": "liliane",
+    "Address":{
+        "street":"258 street",
+        "city":"Rwanda",
+        "state":"tx"
+    },
+    "Email": "lili@gmail.com",
+    "phone":"07856252525"
+
+},
+
+
+
+{
+    "FirstName": "butera",
+    "LastName": "alphnse",
+    "Address":{
+        "street":"563 street",
+        "city":"Rwanda",
+        "state":"kigali"
+    },
+    "Email": "butera20@gmail.com",
+    "phone":"078256465"
+
+}
+
+]
